@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "amcrud-4040b": {
+      "hosting": {
+        "CompleteAngularMaterialApp": [
+          "amcrud-4040b"
+        ]
+      }
+    }
+  }
+}
